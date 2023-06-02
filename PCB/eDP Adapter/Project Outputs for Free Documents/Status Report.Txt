@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [eDP Adapter.PcbDoc]
+   Generated File[eDP Adapter.TXT]
+   Generated File[eDP Adapter.LDP]
+   Generated File[eDP Adapter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:44:12 On 8/20/2022
