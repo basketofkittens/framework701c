@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CablineDP.PcbDoc   8/20/2022  13:49:44
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CablineDP-RoundHoles.TXT
+ASCII SlotHoles File : CablineDP-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      24mil (0.6mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             7         PTH        0.00inch (0.00mm)
+T3      55mil (1.4mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              12
+
+Total Processing Time (hh:mm:ss) : 00:00:00

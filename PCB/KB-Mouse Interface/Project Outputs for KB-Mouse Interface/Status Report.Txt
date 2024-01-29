@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [KB-Mouse Interface.PcbDoc]
+   Generated File[KB-Mouse Interface.TXT]
+   Generated File[KB-Mouse Interface.LDP]
+   Generated File[KB-Mouse Interface.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:01:00 On 6/7/2023

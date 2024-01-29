@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Karl\Desktop\Thinkpad 701C\Cabline to DP breakout\Rev B\CablineDP.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=cablinedp-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=cablinedp-slotholes.txt|DrillLayers=gtl,gbl

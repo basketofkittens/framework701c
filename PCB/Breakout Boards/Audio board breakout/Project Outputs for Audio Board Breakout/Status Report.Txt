@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Audio Board Breakout.PrjPCB]
+   Generated File[Audio Board Breakout.TXT]
+   Generated File[Audio Board Breakout.LDP]
+   Generated File[Audio Board Breakout.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:47:09 On 8/20/2022

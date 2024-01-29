@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [52204 Breakout.PrjPCB]
+   Generated File[52204 Breakout.TXT]
+   Generated File[52204 Breakout.LDP]
+   Generated File[52204 Breakout.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:31:25 On 7/8/2022

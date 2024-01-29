@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [701C Power Button.PcbDoc]
+   Generated File[701C Power Button.TXT]
+   Generated File[701C Power Button.LDP]
+   Generated File[701C Power Button.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:51:47 On 6/5/2023

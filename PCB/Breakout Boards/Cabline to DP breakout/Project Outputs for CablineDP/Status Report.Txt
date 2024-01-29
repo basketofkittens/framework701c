@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CablineDP.PrjPCB]
+   Generated File[CablineDP-RoundHoles.TXT]
+   Generated File[CablineDP-SlotHoles.TXT]
+   Generated File[CablineDP.LDP]
+   Generated File[CablineDP.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:49:44 On 8/20/2022

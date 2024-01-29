@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [M2 Breakin.PrjPCB]
+   Generated File[M2 Breakin.TXT]
+   Generated File[M2 Breakin.LDP]
+   Generated File[M2 Breakin.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:42:50 On 2/11/2023

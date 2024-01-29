@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Input Cover Flex.PcbDoc]
+   Generated File[Input Cover Flex.TXT]
+   Generated File[Input Cover Flex.LDP]
+   Generated File[Input Cover Flex.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:55:34 On 6/5/2023

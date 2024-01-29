@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: M2 Breakout.GBR   2/11/2023  17:39:01
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
+.GPB                Bottom Pad Master                       
+.GBL                Bottom Layer                            
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTO                Top Overlay                             
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM10               Mechanical 10                           
+.GBP                Bottom Paste                            
+.GPT                Top Pad Master                          
+------------------------------------------------------------------------------------------
