@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: 701C Power Button.GBR   6/5/2023  9:51:00
+Gerber File Extension Report For: 701C Power Button.GBR   2/4/2024  17:43:03
 ------------------------------------------------------------------------------------------
 
 
@@ -7,13 +7,12 @@ Gerber File Extension Report For: 701C Power Button.GBR   6/5/2023  9:51:00
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
-.GBL                Bottom Layer                            
-.GTO                Top Overlay                             
-.GTP                Top Paste                               
 .GTS                Top Solder                              
-.GBS                Bottom Solder                           
-.GBP                Bottom Paste                            
-.GBO                Bottom Overlay                          
-.GM1                Mechanical 1                            
 .GM2                Board Outline                           
+.GTP                Top Paste                               
+.GBS                Bottom Solder                           
+.GBL                Bottom Layer                            
+.GBP                Bottom Paste                            
+.GTO                Top Overlay                             
+.GBO                Bottom Overlay                          
 ------------------------------------------------------------------------------------------
