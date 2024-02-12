@@ -2,7 +2,7 @@
 
 ## 701C USB Hub
 An internal 4-port USB hub that sits on the left side of the mainboard. It exposes two external USB3 Type A ports, one internal USB3 Type A port (intended for a Logitech Unifying Receiver), and a gigabit ethernet port.
-**NOTE: This design is unfinished.**
+**NOTE: This design is untested.**
 ## Breakout boards
 A collection of various breakout boards used during development.
 ## eDP Adapter
@@ -26,4 +26,4 @@ Converts all the signals on the mainboard's M.2 port to a fine pitch FFC cable, 
 Lil' board to hold a momentary pushbutton on the right side of the chassis. This board and its mounting post also doubles as the retaining mechanism for the "M.2 Breakout" board.
 ## USB U-Turn
 Allows the "701C USB Hub" board to mate with the Framework mainboard. It's essentially a super low profile 180 degree USB Type C male to USB Type C male "cable."
-**NOTE: This design is unfinished.**
+**NOTE: This design is untested and is a complete affront to all things impedance matching.**
