@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [USB U-Turn.PcbDoc]
+   Generated File[USB U-Turn-RoundHoles.TXT]
+   Generated File[USB U-Turn-SlotHoles.TXT]
+   Generated File[USB U-Turn.LDP]
+   Generated File[USB U-Turn.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:31:40 On 2/11/2024

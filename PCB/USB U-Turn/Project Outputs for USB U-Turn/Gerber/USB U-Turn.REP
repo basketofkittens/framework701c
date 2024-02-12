@@ -1,0 +1,140 @@
+*************************************************************
+FileName = USB U-Turn.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Paste
+      File : USB U-Turn.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : USB U-Turn.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Solder Side
+      File : USB U-Turn.GBL
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Component Side
+      File : USB U-Turn.GTL
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : USB U-Turn.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : USB U-Turn.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : USB U-Turn.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : USB U-Turn.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : USB U-Turn.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
