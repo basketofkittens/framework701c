@@ -8,7 +8,6 @@ New model of the keyboard cover and associated stiffener plate. This is not a re
 The stiffener is laser cut from 1mm stainless sheet.
 **The LED diffuser may not fit and compatability with a stock 701C has not been tested.**
 ## Bottom Case
-Hinge stifferer holes are undersized.
 Test prints performed using a 0.25mm nozzle.
 ## Display Panel Adapter
 Machined from 0.125" acetal (eg. Delrin). Currently missing mounting holes for the adapter PCB.
