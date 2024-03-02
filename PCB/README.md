@@ -26,4 +26,4 @@ Converts all the signals on the mainboard's M.2 port to a fine pitch FFC cable, 
 Lil' board to hold a momentary pushbutton on the right side of the chassis. This board and its mounting post also doubles as the retaining mechanism for the "M.2 Breakout" board.
 ## USB U-Turn
 Allows the "701C USB Hub" board to mate with the Framework mainboard. It's essentially a super low profile 180 degree USB Type C male to USB Type C male "cable."
-**NOTE: This design is untested and is a complete affront to all things impedance matching.**
+Tested using a SSD benchmark with no perceptable performance hit vs. a COTS USB3 cable.
