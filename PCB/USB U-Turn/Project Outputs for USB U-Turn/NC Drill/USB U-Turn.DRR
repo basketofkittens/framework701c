@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: USB U-Turn.PcbDoc   2/11/2024  16:31:40
+NCDrill File Report For: USB U-Turn.PcbDoc   3/2/2024  2:14:04
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Component Side to Solder Side
@@ -8,10 +8,10 @@ ASCII SlotHoles File : USB U-Turn-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      10mil (0.254mm)                                           Round             28        PTH        0.00inch (0.00mm)
+T1      10mil (0.254mm)                                           Round             30        PTH        0.00inch (0.00mm)
 T2      20mil (0.5mm)                                             Slot              10        NPTH       0.00inch (0.00mm)
 T3      30mil (0.75mm)                                            Round             4         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              42
+Totals                                                                              44
 
 Total Processing Time (hh:mm:ss) : 00:00:00

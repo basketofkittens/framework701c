@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: USB U-Turn.GBR   2/11/2024  16:31:38
+Gerber File Extension Report For: USB U-Turn.GBR   3/2/2024  2:14:03
 ------------------------------------------------------------------------------------------
 
 
@@ -7,12 +7,12 @@ Gerber File Extension Report For: USB U-Turn.GBR   2/11/2024  16:31:38
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Component Side                          
-.GM2                Board Outline                           
-.GTO                Top Overlay                             
-.GBP                Bottom Paste                            
-.GTP                Top Paste                               
-.GBO                Bottom Overlay                          
 .GTS                Top Solder                              
+.GTP                Top Paste                               
 .GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM2                Board Outline                           
 .GBL                Solder Side                             
+.GTO                Top Overlay                             
 ------------------------------------------------------------------------------------------
